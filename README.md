@@ -126,7 +126,7 @@ The agent does not follow a hard-coded script. It receives the user's prompt and
 The system successfully outputs files formatted as `<date>_<topic>_<importance>.pdf` (e.g., `2026-05-18_recent_breakthroughs_in_quantum_computing_high.pdf`). 
 
 **Quality Assessment:**
-The quality of the final output is excellent. The integration of `Crawl4AI` with the `fit_markdown` attribute ensures that the LLM is not polluted with website navigation menus or cookie policies. The resulting PDF contains a highly relevant, logically synthesized executive summary with professional formatting, successfully demonstrating a Grade 5.0 autonomous workflow.
+The quality of the final output is excellent. The integration of `Crawl4AI` with the `fit_markdown` attribute ensures that the LLM is not polluted with website navigation menus or cookie policies. The resulting PDF contains a highly relevant, logically synthesized executive summary with professional formatting, successfully demonstrating a autonomous workflow.
 
 ## License
 
