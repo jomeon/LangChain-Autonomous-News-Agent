@@ -132,4 +132,6 @@ The quality of the final output is excellent. The integration of `Crawl4AI` with
 
 Distributed under the MIT License.
 
+<img width="2883" height="596" alt="image" src="https://github.com/user-attachments/assets/a957319e-dbab-4ea9-8b30-a03d52f8917a" />
+
 <img width="3109" height="1247" alt="image" src="https://github.com/user-attachments/assets/ddbefe74-7cc7-4da0-8902-8d1f153e1415" />
