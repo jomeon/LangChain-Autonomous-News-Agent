@@ -1,0 +1,11 @@
+# Environments and Secrets
+.env
+__pycache__/
+*.pyc
+
+# IDEs
+.vscode/
+.idea/
+
+# Project Outputs
+reports/*.pdf
